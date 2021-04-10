@@ -1,0 +1,10 @@
+C:\Users\administered\source\repos\RUN_DOG\RUN_DOG\obj\Debug\RUN_DOG.csprojAssemblyReference.cache
+C:\Users\administered\source\repos\RUN_DOG\RUN_DOG\obj\Debug\RUN_DOG.Form1.resources
+C:\Users\administered\source\repos\RUN_DOG\RUN_DOG\obj\Debug\RUN_DOG.Properties.Resources.resources
+C:\Users\administered\source\repos\RUN_DOG\RUN_DOG\obj\Debug\RUN_DOG.csproj.GenerateResource.cache
+C:\Users\administered\source\repos\RUN_DOG\RUN_DOG\obj\Debug\RUN_DOG.csproj.CoreCompileInputs.cache
+C:\Users\administered\source\repos\RUN_DOG\RUN_DOG\bin\Debug\RUN_DOG.exe.config
+C:\Users\administered\source\repos\RUN_DOG\RUN_DOG\bin\Debug\RUN_DOG.exe
+C:\Users\administered\source\repos\RUN_DOG\RUN_DOG\bin\Debug\RUN_DOG.pdb
+C:\Users\administered\source\repos\RUN_DOG\RUN_DOG\obj\Debug\RUN_DOG.exe
+C:\Users\administered\source\repos\RUN_DOG\RUN_DOG\obj\Debug\RUN_DOG.pdb
